@@ -7,4 +7,5 @@ doc/api
 doc/app
 *.swp
 *˜
+*.log
 .DS_Store
